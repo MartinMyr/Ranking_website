@@ -1,0 +1,23 @@
+body{
+    background-color:blue;
+    text-align: center;
+    color:red;
+}
+.menuAlt{
+  font-size: 30px;
+}
+#menu{
+display: flex;
+justify-content: space-between;
+}
+a{
+    color:black;
+}
+select{
+    margin-top: 100px;
+}
+ul{
+    margin-top:30px;
+    list-style:none;
+}
+
